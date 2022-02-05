@@ -29,5 +29,6 @@
        src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Rafa-Js" height="40" width="100" border-radius="50%"
        src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
+    <img align="center" alt="Rafa-Js" height="40" width="100" border-radius="50%"
+       src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </div>
